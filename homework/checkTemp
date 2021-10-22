@@ -1,4 +1,4 @@
-function checkTemp (temp) {
+function checkTemp(temp) {
     if (temp == 20)
     return 1
     if (temp == 10)
